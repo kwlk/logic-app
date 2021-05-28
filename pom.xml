@@ -44,8 +44,8 @@
           <configuration>
             <mainClass>com.logic.app.App</mainClass>
             <arguments>
-              <argument>LOGIC</argument>
               <argument>I love to work in global logic!</argument>
+              <argument>LOGIC</argument>
             </arguments>
           </configuration>
         </plugin>
